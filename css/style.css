@@ -92,7 +92,7 @@ a:visited {
 
 .nav-shapes {
     display: flex;
-    margin-top: 10px;
+    margin-top: 40px;
     justify-content: space-around;
     gap: 8px;
 }
@@ -103,3 +103,26 @@ a:visited {
     margin-top: 8px;
 }
 
+.container-2 {
+}
+
+.container-3 {
+    background-color: #E5E7EB;
+    padding-top: 100px;
+    height: 300px;  
+    text-align: center;
+
+}
+
+.container-3 h4 {
+    color: #1F2937;
+    font-style: italic;
+    font-size: 36px;
+    font-weight: lighter;
+}
+
+.container-3 p {
+    font-weight: bold;
+    margin-top: 20px;
+    margin-left: 1010px;
+}
